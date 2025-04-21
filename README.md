@@ -2,13 +2,13 @@
 This project scrapes data for the top 10 restaurants from Zomato and allows users to query restaurant details using a chatbot powered by the Grok API. The information scraped includes restaurant names, locations, cuisine types, and more, which is stored in a CSV file. The Grok API is used to provide responses to user queries based on the information in the CSV.
 
 ## Features
-Web Scraping: Scrapes Zomato for the top 10 restaurants.
+**Web Scraping:** Scrapes Zomato for the top 10 restaurants.
 
-Data Storage: Saves restaurant data in a CSV file.
+**Data Storage:** Saves restaurant data in a CSV file.
 
-Chatbot: Users can interact with a chatbot to get restaurant details.
+**Chatbot:** Users can interact with a chatbot to get restaurant details.
 
-GroAPI Integration: Uses Grok API to power the chatbot’s responses based on the scraped data.# Zomato_task
+**GroAPI Integration:** Uses Grok API to power the chatbot’s responses based on the scraped data.# Zomato_task
 
 ## Installation Guide
 ### Step 1: Clone the Repository
