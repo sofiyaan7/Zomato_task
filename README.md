@@ -15,6 +15,8 @@ You can interact with the chatbot live on Streamlit. Click the link below to sta
 
 [Visit Streamlit Chatbot](https://sofiyaan-sameer-zomato-task.streamlit.app/)
 
+## Technical Documentation
+[Document](https://docs.google.com/document/d/1Hp1mnE7PbGkmBXFnfxHeiwGJ_dkogNX32HEaozvd2tI/edit?usp=sharing)
 
 ## Installation Guide
 ### Step 1: Copy the Repository to Your GitHub
