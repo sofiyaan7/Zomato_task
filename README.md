@@ -10,6 +10,12 @@ This project scrapes data for the top 10 restaurants from Zomato and allows user
 
 **GroAPI Integration:** Uses Grok API to power the chatbot’s responses based on the scraped data.# Zomato_task
 
+## Try the Chatbot
+You can interact with the chatbot live on Streamlit. Click the link below to start querying restaurant details:
+
+[Visit Streamlit Chatbot](https://sofiyaan-sameer-zomato-task.streamlit.app/)
+
+
 ## Installation Guide
 ### Step 1: Copy the Repository to Your GitHub
 To deploy this project with Streamlit, first, copy the repository to your GitHub account:
