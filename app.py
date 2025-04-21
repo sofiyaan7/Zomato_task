@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import openai
-
+st.set_page_config(page_title="Restaurant Hunter 🤖🍛", page_icon="🍴")
 # Groq API setup
 openai.api_key = "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"
 openai.api_base = "https://api.groq.com/openai/v1"
@@ -42,7 +42,7 @@ def ask_bot(question):
     return response['choices'][0]['message']['content']
 
 # Page title
-st.set_page_config(page_title="Restaurant Hunter 🤖🍛", page_icon="🍴")
+
 
 st.title("🍴 Restaurant Hunter: Your Food Craving Companion")
 
