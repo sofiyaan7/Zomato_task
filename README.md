@@ -11,22 +11,27 @@ This project scrapes data for the top 10 restaurants from Zomato and allows user
 **GroAPI Integration:** Uses Grok API to power the chatbot’s responses based on the scraped data.# Zomato_task
 
 ## Installation Guide
-### Step 1: Clone the Repository
-First, clone the repository to your local machine. Open your terminal and run:
-```bash
-git clone https://github.com/sofiyaan7/Zomato_task.git
-cd restaurant-hunter
-```
-### Step 2: Install Dependencies
-With the virtual environment activated, install the required dependencies from the requirements.txt file:
-```bash
-pip install -r requirements.txt
-```
+### Step 1: Copy the Repository to Your GitHub
+To deploy this project with Streamlit, first, copy the repository to your GitHub account:
 
-### Step 3: Run the Project
-The scraper will scrape restaurant data from Zomato and save it in a restaurants.csv file:
-```bash
-python scraper.py
+Go to the repository here.
 
-```
+Click on the "Fork" button (top right corner) to copy the repository to your GitHub account.
+
+### Step 2: Sign in to Streamlit
+Sign in to Streamlit using your account at Streamlit. If you don't have an account, you can easily create one.
+
+### Step 3: Deploy the Project
+Once you're signed in to Streamlit, follow these steps:
+
+Go to Streamlit Deploy.
+
+Click on "New app".
+
+Connect your GitHub account and select the repository you copied in Step 1.
+
+Click Deploy.
+
+Streamlit will automatically deploy the project, and you will be able to access the chatbot directly in your browser.
+
 
