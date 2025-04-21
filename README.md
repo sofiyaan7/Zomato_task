@@ -14,7 +14,7 @@ This project scrapes data for the top 10 restaurants from Zomato and allows user
 ### Step 1: Clone the Repository
 First, clone the repository to your local machine. Open your terminal and run:
 ```bash
-git clone https://github.com/your-username/restaurant-hunter.git
+git clone https://github.com/sofiyaan7/Zomato_task.git
 cd restaurant-hunter
 ```
 ### Step 2: Install Dependencies
